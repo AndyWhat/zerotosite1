@@ -1,0 +1,59 @@
+
+body { font-size: 100%}
+
+.header {
+    min-height: 680px;
+    height: 600px;
+    width: 100%;
+    background: url('../i/bg.jpg');
+    background-size: cover;
+    padding-top: 20px;
+}
+
+.columns {
+    
+}
+
+.headertext {
+    color: white;
+}
+
+.highlight- {
+    
+}
+
+.highligt-blue {
+    background-color:red;
+}
+
+.lead-text {
+    color:rgba( 189, 144, 59, 0.955 );
+    padding: 10px;
+    background: rgba(255, 255, 255, 0.11);
+    font-size: 1.3em;
+}
+
+.menu-item {
+   display: inline-block;
+   margin-left: 20px;
+   font-size: 2em;
+}
+
+.lead-button {
+ 
+}
+
+.button-primacy:hover {
+    background: red;
+}
+
+.button-primacy {
+    background-color:rgba( 223, 117, 117, 0.744 );
+}
+
+.contacts {
+    font-size: 1.5em;
+    color:rgba( 140, 175, 58, 0.744 );
+}
+
+
